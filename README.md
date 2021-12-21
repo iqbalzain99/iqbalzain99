@@ -6,7 +6,7 @@ I'm a student of Computer Science at Universitas Pendidikan Indonesia.
 - 🔭 I’m currently studying at [Indonesia University of Education](https://www.upi.edu/).
 - 🌱 I’m currently learning Android Programming at [Dicoding](https://www.dicoding.com/).
 - 📫 How to reach me: iqbalzain99@upi.edu
-- 😄 Pronouns: Iqbal/Him/Zain
+- 😄 Pronouns: He/Him
 
 <br />
 
