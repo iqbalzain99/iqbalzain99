@@ -3,8 +3,8 @@
 Perkenalkan nama saya **Muhammad Iqbal Zain**.  
 
 I'm a student of Computer Science at Universitas Pendidikan Indonesia.  
-- 🔭 I’m currently studying at [Indonesia University of Education](https://www.upi.edu/).
-- 🌱 I’m currently learning Android Programming at [Dicoding](https://www.dicoding.com/).
+- 💻 Currently Working as a Backend Engineer at [Bank Central Asia Tbk](https://www.bca.co.id/).
+- 🔭 Graduated from [Indonesia University of Education](https://www.upi.edu/).
 - 📫 How to reach me: iqbalzain99@upi.edu
 - 😄 Pronouns: He/Him
 
